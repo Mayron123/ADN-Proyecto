@@ -21,7 +21,7 @@ const Hero = () => {
         De Negocios
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum iure iste provident nihil velit. Rem tempore inventore qui alias ducimus! Quisquam, maiores! Delectus molestias ratione totam, doloremque ex maxime eligendi.
+          Accedé a nuestro ecosistema online y aprende sobre trading, inversiones, criptomonedas y nuevas tecnologías. Aumentá tus ingresos y hacer rendir tus ahorros.
         </p>
       </div>
 

@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Educacion",
+    title: "Generar",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam consequuntur quasi recusandae",
+      "Las habilidades de alto ingreso son tu primer paso hacia el camino del exito",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "Seguridad",
+    title: "Mantener",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam consequuntur quasi recusandae",
+      "Potenciar tu capacidad financiera para saber que hacer y en que momento",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Lorem",
+    title: "Multiplicar",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam consequuntur quasi recusanda",
+      "Te brindamos todas las herramientas necesarias para crecer",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Usuarios Activos",
-    value: "120",
+    title: "Integrantes en la Comunidad",
+    value: "+160",
   },
   {
     id: "stats-2",
     title: "Algo",
-    value: "230+",
+    value: "+50H",
   },
   {
     id: "stats-3",
-    title: "Ganancias $USD",
-    value: "$230M+",
+    title: "Invertidos con nosotros",
+    value: "+270K",
   },
 ];
 
